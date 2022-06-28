@@ -8,6 +8,22 @@
     </a>
   </h2>
   
+  <h3>🙋🏻‍♂️ Experiences</h3>
+  <table>
+    <tr align="center">
+      <td> <b>카카오 테크 인턴십 iOS</b> </td>
+      <td> 2022.06 ~ 2022.08 </td>
+      <td> <b>인턴</b> </td>
+      <td> <a href="https://www.kakaocorp.com/page/">카카오</a> </td>
+    </tr><tr align="center">
+      <td> <b>한국항공대 멋쟁이사자처럼 9기</b> </td>
+      <td> 2021.02 ~ 2021.09 </td>
+      <td> <b>운영진</b> </td>
+      <td> <a href="https://www.likelion.net/">멋쟁이사자처럼</a> </td>
+    </tr>
+  </table>
+  <br>
+  
   <h3>📚 Education</h3>
   <table>
     <tr align="center">
@@ -25,22 +41,6 @@
       <td> 2019.03 ~ 2023.08 </td>
       <td> <b>휴학중</b> </td>
       <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
-    </tr>
-  </table>
-  <br>
-
-  <h3>🙋🏻‍♂️ Experiences</h3>
-  <table>
-    <tr align="center">
-      <td> <b>카카오 테크 인턴십 iOS</b> </td>
-      <td> 2022.06 ~ 2022.08 </td>
-      <td> <b>인턴</b> </td>
-      <td> <a href="https://www.kakaocorp.com/page/">카카오</a> </td>
-    </tr><tr align="center">
-      <td> <b>한국항공대 멋쟁이사자처럼 9기</b> </td>
-      <td> 2021.02 ~ 2021.09 </td>
-      <td> <b>운영진</b> </td>
-      <td> <a href="https://www.likelion.net/">멋쟁이사자처럼</a> </td>
     </tr>
   </table>
   <br>
