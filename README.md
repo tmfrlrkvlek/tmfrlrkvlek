@@ -34,7 +34,7 @@
     <tr align="center">
       <td> <b>카카오 테크 인턴십 iOS</b> </td>
       <td> 2022.06 ~ 2022.08 </td>
-      <td> <b>인턴(진행 예정)</b> </td>
+      <td> <b>인턴</b> </td>
       <td> <a href="https://www.kakaocorp.com/page/">카카오</a> </td>
     </tr><tr align="center">
       <td> <b>한국항공대 멋쟁이사자처럼 9기</b> </td>
