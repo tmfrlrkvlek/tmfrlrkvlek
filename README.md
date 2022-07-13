@@ -39,7 +39,7 @@
     </tr><tr align="center">
       <td> <b>소프트웨어학과</b> </td>
       <td> 2019.03 ~ 2023.08 </td>
-      <td> <b>휴학중</b> </td>
+      <td> <b>휴학</b> </td>
       <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
     </tr>
   </table>
