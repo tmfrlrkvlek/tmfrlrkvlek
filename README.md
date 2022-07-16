@@ -8,7 +8,7 @@
     </a>
   </h2>
   
-  <h3>🙋🏻‍♂️ Experiences</h3>
+  <h3>🙋🏻‍♂️ Experience</h3>
   <table>
     <tr align="center">
       <td> <b>카카오 테크 인턴십 iOS</b> </td>
