@@ -39,7 +39,7 @@
     </tr><tr align="center">
       <td> <b>소프트웨어학과</b> </td>
       <td> 2019.03 ~ 2023.08 </td>
-      <td> <b>휴학</b> </td>
+      <td> <b>재학</b> </td>
       <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
     </tr>
   </table>
@@ -48,6 +48,11 @@
   <h3>🏆 Awards</h3>
   <table style="text-align: center;">
     <tr align="center">
+      <td> <b>제 2회 한국항공대학교 프로그래밍 경진대회</b> </td>
+      <td> 2022.09.17 </td>
+      <td> <b>대상</b> </td>
+      <td> <a href="https://www.kaupc2022.com/">KAUPC 2022</a> </td>
+    </tr><tr align="center">
       <td> <b>제 1회 한국항공대학교 프로그래밍 경진대회</b> </td>
       <td> 2021.11.06 </td>
       <td> <b>우수상</b> </td>
