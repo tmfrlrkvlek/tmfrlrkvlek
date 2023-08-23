@@ -10,6 +10,12 @@
   
   <h3>🙋🏻‍♂️ Experience</h3>
   <table>
+    </tr><tr align="center">
+      <td> <b>카카오 iOS 개발</b> </td>
+      <td> 2023.07 ~ </td>
+      <td> <b>정규직</b> </td>
+      <td> <a href="https://www.kakaocorp.com/page/">카카오</a> </td>
+    </tr>
     <tr align="center">
       <td> <b>카카오 테크 인턴십 iOS</b> </td>
       <td> 2022.06 ~ 2022.08 </td>
@@ -39,7 +45,7 @@
     </tr><tr align="center">
       <td> <b>소프트웨어학과</b> </td>
       <td> 2019.03 ~ 2023.08 </td>
-      <td> <b>재학</b> </td>
+      <td> <b>졸업</b> </td>
       <td> <a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a>
     </tr>
   </table>
